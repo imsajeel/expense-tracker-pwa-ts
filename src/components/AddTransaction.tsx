@@ -6,7 +6,7 @@ const AddTransaction = () => {
   const [text, setText] = useState<string>("");
   const [amount, setAmount] = useState<number>(0);
 
-  const { addTransaction, transactions } = useContext(GlobalContext);
+  const { addTransaction } = useContext(GlobalContext);
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
