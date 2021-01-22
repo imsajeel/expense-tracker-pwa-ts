@@ -1,12 +1,12 @@
 import firebase from "firebase";
 
 const config = {
-  apiKey: "AIzaSyDLGIiOe34ishLXeJfgUVXT6eVwX4hE3M4",
-  authDomain: "fir-messaging-5c35f.firebaseapp.com",
-  projectId: "fir-messaging-5c35f",
-  storageBucket: "fir-messaging-5c35f.appspot.com",
-  messagingSenderId: "531917208026",
-  appId: "1:531917208026:web:46f2c66b9271d28dd968e3",
+  apiKey: "AIzaSyBb-Pi26sGnGMrs1cFSfebSn30fvPBIXLA",
+  authDomain: "expense-tracker-f97ef.firebaseapp.com",
+  projectId: "expense-tracker-f97ef",
+  storageBucket: "expense-tracker-f97ef.appspot.com",
+  messagingSenderId: "564575562330",
+  appId: "1:564575562330:web:ae230500488d744a284663",
 };
 
 firebase.initializeApp(config);
