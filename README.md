@@ -4,4 +4,4 @@ bootcamp project 7a
 
 ## Link
 
-Open [http://expense-tracker-pwa-tsx.surge.sh](http://expense-tracker-pwa-tsx.surge.sh)
+Open [https://expense-tracker-pwa-tsx.surge.sh](https://expense-tracker-pwa-tsx.surge.sh)
